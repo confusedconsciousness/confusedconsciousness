@@ -2,7 +2,7 @@
 
 I hope you are doing well. Let me tell you a little about myself.
 
-I am Kishan Kumar, a graduate having majors in Electrical Engineering and a minor specialization in Computer Science and Engineering from IIT Roorkee(2016-2020). I have a keen interest in cosmos to be honest and I also love coding of course but not just to get the work in O(n) or something like that. I love talking about some intellectually proving topics, it can be Dark Energy, Black Holes, or are we living in a Matrix kind of stuff. Yeah, I know that sounds a lot. Well I am always looking to help or contribute to any social cause, and ofcourse to just have a light chit chat.
+I am Kishan Kumar, a graduate having majors in Electrical Engineering and a minor specialization in Computer Science and Engineering from IIT Roorkee(2016-2020). I have a keen interest in cosmos to be honest and I also love coding of course but not just to get the work done in O(n) or something like that. I love talking about some intellectually provoking topics, it can be Dark Energy, Black Holes, or are we living in a Matrix kind of stuff. Yeah, I know that sounds a lot. Well I am always looking to help or contribute to any social cause, and ofcourse to just have a light chit chat.
 
 #### Find me here
 <ul>
