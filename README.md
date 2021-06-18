@@ -6,7 +6,7 @@ I am Kishan Kumar, a graduate having majors in Electrical Engineering and a mino
 
 #### Find me here
 <ul>
-  <li> <a href="https://twitter.com/KishanIamLegend">Twitter</a> </li>
+  <li> <a href="https://twitter.com/kishunkumaar">Twitter</a> </li>
   <li> <a href="https://www.linkedin.com/in/kishankumarchandravanshi/">LinkedIn</a> </li>
 </ul>
    
