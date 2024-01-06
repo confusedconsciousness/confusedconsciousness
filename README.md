@@ -10,7 +10,7 @@ So if you're looking for a coding buddy who's equal parts humble, humorous, and 
 
 #### Find me here
 <ul>
-  <li> <a href="https://twitter.com/kishunkumaar">Twitter</a> </li>
+  <li> <a href="https://twitter.com/0xkishankumar">Twitter</a> </li>
   <li> <a href="https://www.linkedin.com/in/kishankumarchandravanshi/">LinkedIn</a> </li>
 </ul>
    
