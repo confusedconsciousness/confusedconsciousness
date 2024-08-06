@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-Greetings fellow coding comrades! My name is Kishan Kumar, and I'm just your average Electrical Engineering graduate with a minor in Computer Science and Engineering from IIT Roorkee (no big deal, right?).
+Hello, my name is Kishan Kumar, and I'm a Software Engineer with 4 years of experience at PhonePe, a fintech company, where I've had the opportunity to work on several impactful projects. One of my most notable contributions is the development of Gatekeeper, a project that I built from the ground up and successfully took to production. Gatekeeper plays a critical role in our organization, streamlining the onboarding of new services and APIs onto our API Gateway.
 
-When I'm not busy coding away, I love to ponder the mysteries of the cosmos and have some mind-bending discussions on topics like Dark Energy, Black Holes, and whether we're all just characters in a cosmic simulation. It's probably not the most practical way to spend my time, but hey, I'm a dreamer.
+Another key achievement was implementing a Dynamic Reloading system for around 500 instances of our API Gateway, which handles approximately 1 million requests per second. This solution eliminated the need for regular restarts, significantly reducing downtime and operational impact. The dynamic reloading was made feasible by Gatekeeper's robust sanity checks, ensuring safe and accurate configuration updates.
 
-I'm always looking for ways to use my skills for good, whether it's by contributing to social causes or just helping out a fellow coder in need. And when I'm not saving the world one line of code at a time, I'm always up for a light chit chat with like-minded individuals who share my love for both coding and the mysteries of the universe.
+Additionally, I've optimized our infrastructure by reducing the number of API internal (used for S2S communication) instances from 150 to 20, a significant 86.67% reduction in resources, by focusing on delegating IO-intensive tasks to worker threads. This optimization has significantly decreased wait times for standard requests, enhancing overall system efficiency.
 
-So if you're looking for a coding buddy who's equal parts humble, humorous, and intellectually curious, let's connect on Github and see where our shared interests take us. Who knows, maybe we'll even solve the mysteries of the universe together. Or, you know, just write some cool code.
+Regarding my education, I have completed my B.Tech from the Indian Institute of Technology, Roorkee, where I was honored with the best B.Tech project award for my work on a Smart Navigation system designed to assist visually impaired individuals.
 
+Outside of work, I have a deep appreciation for art and music. I enjoy reading books on Cosmos, Philosophy, and sometimes fiction.
+
+If you want to reach out to me, please head to the contact section, or connect with me through my socials. I'll be happy to connect.
 #### Find me here
 <ul>
   <li> <a href="https://twitter.com/0xkishankumar">Twitter</a> </li>
