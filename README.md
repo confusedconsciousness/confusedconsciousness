@@ -10,7 +10,7 @@ Regarding my education, I have completed my B.Tech from the Indian Institute of 
 
 Outside of work, I have a deep appreciation for art and music. I enjoy reading books on Cosmos, Philosophy, and sometimes fiction.
 
-If you want to reach out to me, please head to the contact section, or connect with me through my socials. I'll be happy to connect.
+If you want to reach out to me connect with me through my socials. I'll be happy to connect.
 #### Find me here
 <ul>
   <li> <a href="https://twitter.com/0xkishankumar">Twitter</a> </li>
